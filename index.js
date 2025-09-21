@@ -12,7 +12,7 @@ function searchDesserts() {
     });
   }
 
-(function(){
+/*(function(){
   emailjs.init({
     publicKey: "ZVrnj4EmmbvDURr6j",
   });
@@ -43,3 +43,4 @@ window.addEventListener("load", () => {
     console.log("ℹ️ Email already sent this session");
   }
 });
+*/
